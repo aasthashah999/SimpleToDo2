@@ -7,5 +7,10 @@ Submitted by: **Aastha Shah**
 
 The following functionality is included 
 
-* [ ] User can remove and add items from the todo list 
-* [ ] List is stored even after the app closes 
+* [ x] User can remove and add items from the todo list 
+* [ x] List is stored even after the app closes 
+
+##Video Walkthrough 
+Here is a video of the walkthrough 
+<img src = 'VideoWalkThrough.gif' title = 'Video Walkthrough' width = ''/>
+GIF created with [LiceCap] (https://www.cockos.com/licecap/)
