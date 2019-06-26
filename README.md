@@ -12,5 +12,6 @@ The following functionality is included
 
 ##Video Walkthrough 
 Here is a video of the walkthrough 
-<img src = 'VideoWalkThrough.gif' title = 'Video Walkthrough' width = ''/>
+<img src = 'videoWalkThrough.gif' title = 'Video Walkthrough' width = ''/>
+
 GIF created with [LiceCap] (https://www.cockos.com/licecap/)
